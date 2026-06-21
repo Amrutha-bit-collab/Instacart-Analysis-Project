@@ -14,6 +14,10 @@ This project analyzes the Instacart Online Grocery Basket Analysis dataset to un
 
 ## Dataset
 The dataset originates from the Instacart Online Grocery Basket Analysis Dataset available on Kaggle.
+Please use this link to get the raw data set.
+The "aisle.csv" file name changed to "category.csv" in this project
+https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
+
 
 ### Files Used
 - `orders.csv` – Customer order information.
